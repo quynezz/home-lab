@@ -4,7 +4,7 @@ This repository contains a documentation of my home lab setup, where i demonstra
 
 ## ⚔   Offensive tools uses in the lab
 
-- **Kali Linux** (4 GB RAM, 2 CPU cores, 20 GB disk)
+- **Kali Linux** (4 GB RAM, 2 CPU cores, 20 GB disk For both attacker and victim): a penetration testing Linux distribution
 - **Ettercap**: a red team tool for scanning and applying MITM attacks
 - **Wireshark**: a network protocol analyzer
 - **Setoolkit**: a red team tool for social engineering attacks
